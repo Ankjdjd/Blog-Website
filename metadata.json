@@ -1,0 +1,8 @@
+{
+  "name": "CodeClause Internship Project Hub",
+  "description": "A comprehensive dashboard showcasing four completed internship projects: a Blog Website, Memory Game, Mail Application, and Video Streaming App.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
